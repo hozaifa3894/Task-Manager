@@ -1,6 +1,3 @@
-Hozaifa, main samajh gaya. Aap chahte hain ki main AI features ko side mein rakh kar sirf wahi likhoon jo aapne actually code kiya hai aur jo aapke project mein abhi kaam kar raha hai.
-
-Ye raha ekdam Simple aur Real README.md jo aapke current project status ko dikhata hai:
 
 📝 Smart Task Manager
 Developed by: Mohd Hozaifa B.Tech Computer Science student at IIMT College of Engineering
